@@ -20,7 +20,7 @@ The analysis of the elction show that:
 
 -The candidate results were:
   
-  -Charles Casper Stockham received 23.1% of the vote and 85,413 number of votes.
+  -Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
   
   -Diana DeGette received 73.8% of the vote and 272,692 number of votes.
   
