@@ -66,4 +66,4 @@ The analysis resulted in the following outcomes:
  ![txtfileimage](Resources/txtfilewrite.png)
 
 ## Election-Audit Summary
-
+The python script used for this election audit is very useful and could be reused with slight modifcations for other future elections as well. The existing code can be recycled and reused as long as the csv file that contains all the data is similar to the csv file used for this audit. If the csv has slight differences to the location of the data in the columns, then the code would simply need to be modified to index to the correct column or row.
