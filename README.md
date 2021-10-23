@@ -36,6 +36,9 @@ The analysis of the elction show that:
 The purpose of this election audit was to analyze the results of a recent local election in Colorado and report these results to the election commission. The relevant information in the data that was analyzed include: the names of the candidates, the number of votes each candidate received, the percentage of votes each candidate received, the total number of votes, and the winner of the election. Additionally, the coter turnout for each county, the percentage of votes received from each county of the total votes, and the county with the highest turnout was analyzed and determined. To obtain these results, a python script was created and run.
 
 ## Election-Audit Results
+To perform the analysis to produce both the county vote results along with the candidate vote results, the following code was run:
+![mod3code image](Resources/mod3code.png)
+
 The analysis resulted in the following outcomes:
 
 -Total Votes in the Congressional Election: 369,711
