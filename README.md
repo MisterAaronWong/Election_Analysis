@@ -46,13 +46,13 @@ The analysis resulted in the following outcomes:
 
 -County Breakdown:
   
-  - Jefferson County: 
+  - Jefferson County: 38,855 votes casted (10.5% of the total votes casted) 
   
-  - County:
+  - Denver County: 306,055 votes casted (82.8% of the total votes casted)
 
-  - County:
+  - Arapahoe County: 24,801 votes casted (6.7% of the total votes casted)
 
- County had the number of votes.
+ Denver County had the largest number of votes.
  
  -Candidate Breakdown:
   -Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
