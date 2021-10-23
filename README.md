@@ -30,10 +30,6 @@ The analysis of the elction show that:
   
   * Diana DeGette who received 73.8% of the vote and 272,692 number of votes.
 
-## Challenge Overview
-
-## Challenge Summary
-
 # Election Audit (Module 3 Challenge, Deliverable 3)
 
 ## Overview of Election Audit
