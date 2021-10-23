@@ -14,21 +14,21 @@ The analysis of the elction show that:
 -There were 369,711 total votes cast in the election.
 
 -The candidates were:
-  - Charles Casper Stockham
-  - Diana DeGette
-  - Raymon Anthony Doane
+  * Charles Casper Stockham
+  * Diana DeGette
+  * Raymon Anthony Doane
 
 -The candidate results were:
   
-  -Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+  * Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
   
-  -Diana DeGette received 73.8% of the vote and 272,692 number of votes.
+  * Diana DeGette received 73.8% of the vote and 272,692 number of votes.
   
-  -Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+  * Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 
 -The winner of the election was:
   
-  -Diana DeGette who received 73.8% of the vote and 272,692 number of votes.
+  * Diana DeGette who received 73.8% of the vote and 272,692 number of votes.
 
 ## Challenge Overview
 
@@ -46,20 +46,20 @@ The analysis resulted in the following outcomes:
 
 -County Breakdown:
   
-  - Jefferson County: 38,855 votes casted (10.5% of the total votes casted) 
+  * Jefferson County: 38,855 votes casted _(10.5% of the total votes casted)_ 
   
-  - Denver County: 306,055 votes casted (82.8% of the total votes casted)
+  * Denver County: 306,055 votes casted _(82.8% of the total votes casted)_
 
-  - Arapahoe County: 24,801 votes casted (6.7% of the total votes casted)
+  * Arapahoe County: 24,801 votes casted _(6.7% of the total votes casted)_
 
  Denver County had the largest number of votes.
  
  -Candidate Breakdown:
-  -Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+  * Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
   
-  -Diana DeGette received 73.8% of the vote and 272,692 number of votes.
+  * Diana DeGette received 73.8% of the vote and 272,692 number of votes.
   
-  -Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+  * Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
   
  Diana DeGette won the election with 272,692 number of votes, receiving 73.8% of the vote.
 
